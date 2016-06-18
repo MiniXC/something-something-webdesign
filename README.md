@@ -1,4 +1,5 @@
 # Something, something, Web Design
+
 ## Colors
 * [Paletton](http://paletton.com)
 * [Create Natural Palettes fom Images](http://palettegenerator.com)
@@ -58,3 +59,7 @@
 ## Podcasts
 * [Unfinished Business](http://www.unfinished.bz)
 * [Design Details](http://spec.fm/podcasts/design-details)
+
+## Meta
+* [How much should I charge?](http://thenuschool.com/how-much)
+* [Contract Killer](https://24ways.org/2008/contract-killer)
