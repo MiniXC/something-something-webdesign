@@ -44,20 +44,6 @@
 ## Resources
 * [Makerbook](http://makerbook.net)
 
-### Icons
-* [Flat Icon Maker](http://flaticons.net)
-* [Free vector icons](http://www.flaticon.com)
-
-### Fonts
-* [Google Fonts](https://fonts.google.com)
-* [FontSpace](http://www.fontspace.com)
-* [Font Squirrel](https://www.fontsquirrel.com)
-* [DaFont](http://www.dafont.com)
-
-### Photos
-* [FreeImages](http://www.freeimages.com)
-* [Pixabay](https://pixabay.com)
-
 ## Blogs
 * [CSS-Tricks](https://css-tricks.com)
 * [Codrops](http://tympanus.net/codrops)
