@@ -32,3 +32,4 @@
 * [Hugo Giraudel](http://hugogiraudel.com/blog)
 * [24ways](https://24ways.org)
 * [A List Apart](http://alistapart.com)
+* [The Sass Way](http://thesassway.com)
