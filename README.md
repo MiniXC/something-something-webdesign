@@ -31,7 +31,6 @@
 	* [Database of JavaScript Libraries](https://www.javascripting.com)
 	* [Selecting an MV* Framework](http://todomvc.com)
 * [You Might Not Need jQuery](http://youmightnotneedjquery.com)
-* [Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript)
 
 ## Browser
 * [StatCounter](http://gs.statcounter.com)
@@ -54,6 +53,7 @@
 * [24ways](https://24ways.org)
 * [A List Apart](http://alistapart.com)
 * [The Sass Way](http://thesassway.com)
+* [Addy Osmani](https://addyosmani.com/blog)
 
 ## Podcasts
 * [Unfinished Business](http://www.unfinished.bz)
