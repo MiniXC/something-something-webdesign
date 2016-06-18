@@ -18,12 +18,16 @@
 ## Layout
 * [Flexy Boxes](http://the-echoplex.net/flexyboxes)
 
-## Syles
+## CSS
 * SASS
 	* [SASS & Color Variables](http://sachagreif.com/sass-color-variables)
 * Frameworks
 	* [Popular CSS Libraries](http://cssdb.co/)
 	* [CSS Front-end Frameworks with comparison](http://usablica.github.io/front-end-frameworks/compare.html)
+
+## JS
+* Frameworks
+	* [Micro-Frameworks and Micro-Libraries](http://microjs.com)
 
 ## Browser
 * [StatCounter](http://gs.statcounter.com)
