@@ -28,7 +28,9 @@
 ## JS
 * Frameworks
 	* [Micro-Frameworks and Micro-Libraries](http://microjs.com)
-
+	* [Database of JavaScript Libraries](https://www.javascripting.com)
+	* [Selecting an MV* Framework](http://todomvc.com)
+* [You Might Not Need jQuery](http://youmightnotneedjquery.com)
 ## Browser
 * [StatCounter](http://gs.statcounter.com)
 
