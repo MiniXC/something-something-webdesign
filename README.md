@@ -34,6 +34,12 @@
 ## Browser
 * [StatCounter](http://gs.statcounter.com)
 
+## Learning
+* [FreeCodeCamp](https://www.freecodecamp.com)
+* [Codewars](https://www.codewars.com)
+* [HackerRank](https://www.hackerrank.com)
+* [Codecademy](https://www.codecademy.com)
+
 ## Blogs
 * [CSS-Tricks](https://css-tricks.com)
 * [Codrops](http://tympanus.net/codrops)
