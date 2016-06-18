@@ -1,4 +1,4 @@
-# something-something-webdesign
+# Something, something, web design
 ## Colors
 * [Paletton](http://paletton.com)
 * [Create Natural Palettes fom Images](http://palettegenerator.com)
