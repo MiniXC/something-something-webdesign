@@ -41,3 +41,7 @@
 * [24ways](https://24ways.org)
 * [A List Apart](http://alistapart.com)
 * [The Sass Way](http://thesassway.com)
+
+## Podcasts
+* [Unfinished Business](http://www.unfinished.bz)
+* [Design Details](http://spec.fm/podcasts/design-details)
