@@ -31,6 +31,7 @@
 	* [Database of JavaScript Libraries](https://www.javascripting.com)
 	* [Selecting an MV* Framework](http://todomvc.com)
 * [You Might Not Need jQuery](http://youmightnotneedjquery.com)
+* [Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript)
 
 ## Browser
 * [StatCounter](http://gs.statcounter.com)
