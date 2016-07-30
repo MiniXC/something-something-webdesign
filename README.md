@@ -56,6 +56,11 @@
 * [The Sass Way](http://thesassway.com)
 * [Addy Osmani](https://addyosmani.com/blog)
 
+## Docs
+* [HTML5 Doctor](http://html5doctor.com/)
+* [Mozilla Developer Network](https://developer.mozilla.org)
+* ~~[W3Schools](http://www.w3schools.com/)~~ [Don't use it for documentation.](http://meta.stackoverflow.com/questions/280478/why-not-w3schools-com)
+
 ## Podcasts
 * [Unfinished Business](http://www.unfinished.bz)
 * [Design Details](http://spec.fm/podcasts/design-details)
